@@ -29,3 +29,6 @@ obj_in.set_gauges_position(gauges_pos)
 # display model information
 obj_in.domain_show() # show domain map
 print(obj_in) 
+
+# write all input files for HiPIMS to the case folder
+obj_in.write_input_files()

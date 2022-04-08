@@ -12,8 +12,8 @@
         }
     },
     "model_attr": {
-        "case_folder": "C:\\Users\\wenlei\\Desktop\\HydroDynamicsModel_Cython\\Run_model\\hipims_case",
-        "birthday": "2022-03-29 12:55",
+        "case_folder": "E:\\opengithub\\hipims\\hipims\\demo\\hipims_case",
+        "birthday": "2022-04-08 17:21",
         "num_GPU": 1,
         "run_time": "[[0, 3600, 3600, 3600], 's']",
         "num_gauges": 2
